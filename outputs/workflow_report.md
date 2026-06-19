@@ -1,0 +1,94 @@
+# ????????
+
+## 工作流摘要
+
+- 主题：????????
+- 纳入论文数量：3
+
+## 纳入论文
+
+- 2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf
+- Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf
+- Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf
+
+## 工作流步骤日志
+
+- 步骤 1：已选中 3 篇论文。
+- 步骤 2：已完成多篇论文比较。
+- 步骤 3：已生成综述提纲。
+
+## 多篇论文比较
+
+```text
+多篇论文比较结果：
+比较主题：????????
+纳入论文数量：3
+纳入论文：
+1. 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》
+   研究问题：this paper, we conduct a systematic review of 233 articles focusing on the application of LLMs in urban studies,
+   研究对象：this paper, we conduct a systematic review of 233 articles focusing on the application of LLMs in urban studies,
+   方法：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+2. 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》
+   研究问题：perspectives around urban resilience meanings and principles. It aims to enhance the understanding of the
+   研究对象：literature has recently emphasised how urban resilience differs from urban sustainability, while urban policy
+   方法：Throughout important international urban policy frameworks (as the
+3. 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》
+   研究问题：and energy flows — has profound implications for environmental pollu -
+   研究对象：and energy flows — has profound implications for environmental pollu -
+   方法：文本中未明确识别出研究方法，建议查看方法或研究设计部分。
+共同主题：
+- 多篇论文都涉及“findings”相关议题。
+- 多篇论文都涉及“research”相关议题。
+- 多篇论文都涉及“insights”相关议题。
+- 多篇论文都涉及“results”相关议题。
+方法比较：
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》：Throughout important international urban policy frameworks (as the
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》：文本中未明确识别出研究方法，建议查看方法或研究设计部分。
+数据来源比较：
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》：some, and problematic by others. From a theoretical point of view,
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》：ARTICLE INFO
+主要发现比较：
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：findings highlight an exponential growth in related research over the past six years, with LLMs being applied to
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》：showed how practices are still driven through robustness and safety-driven measures. The paper critically dis-
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》：theoretical insights, empirical research has yielded mixed findings
+综合启示：
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》提示：advanced LLMs are included, for their insights into the application
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》提示：results suggest that while international policy agendas use urban
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》提示：emissions. These results offer valuable insights for governments in
+```
+
+## 综述提纲
+
+```text
+综述提纲：
+主题：????????
+参考论文：2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf, Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf, Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf
+1. 研究背景与问题提出
+- 围绕“????????”梳理研究缘起、应用场景与现实问题。
+- 多篇论文都涉及“findings”相关议题。
+- 多篇论文都涉及“research”相关议题。
+- 多篇论文都涉及“insights”相关议题。
+2. 研究对象与案例场景
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》关注：this paper, we conduct a systematic review of 233 articles focusing on the application of LLMs in urban studies,
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》关注：literature has recently emphasised how urban resilience differs from urban sustainability, while urban policy
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》关注：and energy flows — has profound implications for environmental pollu -
+3. 常用方法与数据来源
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》：Throughout important international urban policy frameworks (as the
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》：文本中未明确识别出研究方法，建议查看方法或研究设计部分。
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+4. 主要发现与分歧
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》：findings highlight an exponential growth in related research over the past six years, with LLMs being applied to
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》：showed how practices are still driven through robustness and safety-driven measures. The paper critically dis-
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》：theoretical insights, empirical research has yielded mixed findings
+5. 对城市治理、规划或安全的启示
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》提示：advanced LLMs are included, for their insights into the application
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》提示：results suggest that while international policy agendas use urban
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》提示：emissions. These results offer valuable insights for governments in
+6. 局限与后续研究方向
+- 《2025 - Advancements in the application of large language models in urban studies A systematic review_1.pdf》的局限：methods for data processing and model adaptation. Additionally, the paper also addresses common concerns
+- 《Chelleri和Baravikova - 2021 - Understandings of urban resilience meanings and principles across europe.pdf》的局限：ourinterviews,however,resiliencewasperceivedashavingmoresocial
+- 《Dai和Luo - 2025 - Effects of spatial structure on carbon emissions of urban agglomerations in China.pdf》的局限：further exploration in future research. From a data perspective, the
+```
